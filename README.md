@@ -1,1 +1,1 @@
-https://kinesiscorporation.github.io/Adv360-Pro-GUI/
+http://nickcoutsos.github.io/keymap-editor
